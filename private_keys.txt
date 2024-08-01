@@ -1,0 +1,7 @@
+format
+privatekey|proxy
+
+--------------------------------------------
+
+For example
+0x092812f6bec38f5f0cb2340xxxxxxxxa9fa8a81667e9c8a79d0b127865|wibuuser:wibupass@512.73.109.192:5157
