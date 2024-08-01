@@ -31,7 +31,7 @@ Put all the ref links you want to run into the file linkref.txt
 # Step 6
 Run install.bat
 
-# Bước 7
+# Step 7
 Run Elys.py
 
 💩💩💩💩💩💩💩
